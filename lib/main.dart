@@ -40,6 +40,7 @@ class ToDoListPage extends StatelessWidget {
             }),
           );
         },
+        child: Icon(Icons.add),
       ),
     );
   }
